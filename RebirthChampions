@@ -13,7 +13,7 @@ local CloseButton = Instance.new("TextButton")
 -- Configuration
 local CORRECT_KEY_URL = "https://pastebin.com/raw/CD4DyVWc"
 local GET_KEY_LINK = "https://direct-link.net/1462308/RRaO8s6Woee8"
-local SCRIPT_URL = "https://raw.githubusercontent.com/gumanba/Scripts/main/TrainingToClimb"
+local SCRIPT_URL = "https://gist.githubusercontent.com/gerelyncontiga-dot/8aeaa393df72f52f2353f7a53452ee5f/raw/166c5434fc7b909610cab22dd596914db6d8c6cb/Gist%2520ultimate%2520champion.lua"
 local SAVE_KEY_NAME = "SavedKeySystem_v1.txt"
 
 -- Services
