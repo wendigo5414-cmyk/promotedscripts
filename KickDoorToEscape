@@ -12,7 +12,7 @@ local CloseButton = Instance.new("TextButton")
 
 -- Configuration
 local CORRECT_KEY_URL = "https://pastebin.com/raw/CD4DyVWc"
-local GET_KEY_LINK = "https://direct-link.net/1462308/RRaO8s6Woee8"
+local GET_KEY_LINK = "https://lootdest.org/s?sHCzKHU5"
 local SCRIPT_URL = "https://raw.githubusercontent.com/gumanba/Scripts/main/KickDoorToEscape"
 local SAVE_KEY_NAME = "SavedKeySystem_v1.txt"
 
